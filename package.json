@@ -1,0 +1,25 @@
+{
+  
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stringLength.js",
+  "dependencies": {
+    "jest": "^27.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+    },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xJokeer/Testing-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xJokeer/Testing-practice/issues"
+  },
+  "homepage": "https://github.com/xJokeer/Testing-practice#readme"
+}
